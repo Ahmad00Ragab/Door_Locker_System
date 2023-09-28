@@ -3,5 +3,3 @@
  messages on the LCD.
 - **CONTROL_ECU:** is responsible for all the processing and decisions in the system like password
 checking, open the door and activate the system alarm.
-
-![Control_ECU_Layers](../Control_ECU_Layers.PNG)                                         ![HMI_ECU_Layers](../HMI_ECU_Layers.PNG)
