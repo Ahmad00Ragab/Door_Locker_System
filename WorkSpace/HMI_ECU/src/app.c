@@ -6,7 +6,7 @@
  *==========================================================================================*/
 #include "app.h"
 #include "lcd.h"
-#include <avr/delay.h>
+#include <util/delay.h>
 #include "uart.h"
 #include "keypad.h"
 #include "timer1.h"

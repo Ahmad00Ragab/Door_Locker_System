@@ -9,6 +9,8 @@
 #include "common_macros.h" /* For GET_BIT Macro */
 #include "lcd.h"
 #include "gpio.h"
+#include <stdio.h>
+
 
 /*******************************************************************************
  *                      Functions Definitions                                  *
